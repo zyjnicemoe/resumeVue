@@ -4,7 +4,7 @@
       <section class="practice">
         <header class="section-hd">
           <span class="section-title-l"></span>
-          <h2 class="section-title">项目经历</h2>
+          <h2 class="section-title">实践经历</h2>
           <span class="section-title-r"></span>
         </header>
         <div class="section-bd">
@@ -219,7 +219,7 @@
           <div class="item">
             <header class="item-hd">
               <span class="item-time">WEB后端开发</span>
-              <a class="btn item-more">熟练掌握</a>
+              <a class="btn item-more">掌握</a>
             </header>
             <div class="item-bd">
               <ul class="section-content">
@@ -245,7 +245,7 @@
           <div class="item">
             <header class="item-hd">
               <span class="item-time">数据库</span>
-              <a class="btn item-more">熟练掌握</a>
+              <a class="btn item-more">掌握</a>
             </header>
             <div class="item-bd">
               <ul class="section-content">
@@ -260,7 +260,7 @@
           <div class="item">
             <header class="item-hd">
               <span class="item-time">服务器|架构</span>
-              <a class="btn item-more">熟练掌握</a>
+              <a class="btn item-more">掌握</a>
             </header>
             <div class="item-bd">
               <ul class="section-content">
