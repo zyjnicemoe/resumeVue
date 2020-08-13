@@ -1,2 +1,2 @@
 # resumeVue
-# 预览地址:http:http://resume.zyjblogs.cn/
+# 预览地址:http://resume.zyjblogs.cn/
